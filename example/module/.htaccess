@@ -1,0 +1,2 @@
+#This simply blocks people from viewing the directory and accessing it's contents.
+Deny from all
